@@ -1,0 +1,10 @@
+C:\Users\anish\source\repos\GDI_PLUS\GDI_PLUS\bin\Debug\GDI_PLUS.exe.config
+C:\Users\anish\source\repos\GDI_PLUS\GDI_PLUS\bin\Debug\GDI_PLUS.exe
+C:\Users\anish\source\repos\GDI_PLUS\GDI_PLUS\bin\Debug\GDI_PLUS.pdb
+C:\Users\anish\source\repos\GDI_PLUS\GDI_PLUS\obj\Debug\GDI_PLUS.csproj.AssemblyReference.cache
+C:\Users\anish\source\repos\GDI_PLUS\GDI_PLUS\obj\Debug\GDI_PLUS.Form1.resources
+C:\Users\anish\source\repos\GDI_PLUS\GDI_PLUS\obj\Debug\GDI_PLUS.Properties.Resources.resources
+C:\Users\anish\source\repos\GDI_PLUS\GDI_PLUS\obj\Debug\GDI_PLUS.csproj.GenerateResource.cache
+C:\Users\anish\source\repos\GDI_PLUS\GDI_PLUS\obj\Debug\GDI_PLUS.csproj.CoreCompileInputs.cache
+C:\Users\anish\source\repos\GDI_PLUS\GDI_PLUS\obj\Debug\GDI_PLUS.exe
+C:\Users\anish\source\repos\GDI_PLUS\GDI_PLUS\obj\Debug\GDI_PLUS.pdb
